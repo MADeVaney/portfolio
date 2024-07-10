@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/profile.png?raw=true" # your photo (or logo) here
+title: Miles DeVaney # your name (or website title) here
+logo: "/images/newerface.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Man of Mystery
-  <br><br>
-  Inventor, Analysist, Space Rogue
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Master's in Data Science Student
+  <br>
+  devaneymiles@gmail.com
+  <br>
+  <a href="https://www.linkedin.com/in/miles-devaney/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
