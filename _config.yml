@@ -3,7 +3,7 @@ logo: "/images/newerface.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Master's in Data Science Student
   <br>
-  devaneymiles@gmail.com
+  <a href="mailto:devaneymiles@gmail.com">Email</a>
   <br>
   <a href="https://www.linkedin.com/in/miles-devaney/">LinkedIn</a> 
   
