@@ -1,3 +1,5 @@
+## [Resume](/DS_Resume.pdf)
+
 ## Projects
 
 ---
